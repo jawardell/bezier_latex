@@ -148,7 +148,7 @@ window.onload = function() {
 			return;
 		}
 		if((ctrlPoints.length != ctlPointLimit) && (endPoints.length != endPointLimit)) {
-			document.getElementById('msg').innerHTML = "choose 2 end points and 2 control points;
+			document.getElementById('msg').innerHTML = "choose 2 end points and 2 control points";
 			return;
 		}
 		if(ctrlPoints.length != ctlPointLimit) {
