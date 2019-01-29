@@ -13,5 +13,6 @@ git clone https://github.com/jawardell/bezier_latex
 
 ```shell
 cd bezier_latex
+#mac users ▼
 open index.html
 ```
